@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background: #ad5555;
+  background: linear-gradient(90deg, rgba(173, 85, 85, 1) 0%, rgba(30, 117, 68, 1) 50%, rgba(171, 166, 118, 1) 100%);
 }
 
 h1 {
